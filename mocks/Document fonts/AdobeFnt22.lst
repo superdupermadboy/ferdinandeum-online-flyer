@@ -1,4 +1,4 @@
-%!Adobe-FontList 1.20
+%!Adobe-FontList 1.22
 %Locale:0x407
 
 %BeginFont
@@ -11,14 +11,14 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Janis\Desktop\WS 2020\VR\Ferdinandeum\FLYER_1.12. Ordner\Document fonts\MinionPro-Regular.otf
+OutlineFileName:D:\Projects\flyer\mocks\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
 hasSVG:no
 VariableFontType:NonVariableFont
 FileLength:217280
-FileModTime:1329299626
+FileModTime:1606839372
 WeightClass:400
 WidthClass:5
 AngleClass:0
